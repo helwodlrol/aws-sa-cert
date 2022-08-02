@@ -26,9 +26,13 @@ ref: https://aws.amazon.com/cn/certification/certified-solutions-architect-assoc
 
 ### 备考
 
+ref: https://aws.amazon.com/cn/certification/certification-prep/
+
 没有比动手操作体验更好的备考方式了。有许多相关的 AWS 培训课程和其他资源可帮助您获得更多知识和技能，以便您备考认证考试。有关认证考试能力评估的详细信息，请查看考试指南。
 
-ref: https://aws.amazon.com/cn/certification/certification-prep/
+**学习提示：**重点查看以下常见问题。
+
+**[Amazon EC2](https://aws.amazon.com/ec2/faqs/)** || [**Amazon S3**](https://aws.amazon.com/s3/faqs/) || **[Amazon VPC](https://aws.amazon.com/vpc/faqs/)** || [**Amazon Route 53**](https://aws.amazon.com/route53/faqs/) || [**Amazon RDS**](https://aws.amazon.com/rds/faqs/) || **[Amazon SQS](https://aws.amazon.com/sqs/faqs/)**
 
 ### 考试详情
 
